@@ -1,4 +1,8 @@
-![Astrocyte with synapses](astro-with-synapses.png)
+<div align="center">
+    <img src="astro-with-synapses.png" alt="Main Cartoon Image" width="300"/>
+</div>
+
+
 
 This repository contains code to implement neuron-astrocyte associative memory networks, as described in [Kozachkov, Slotine & Krotov (2023)](https://arxiv.org/abs/2311.08135). 
 
