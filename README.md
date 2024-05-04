@@ -1,6 +1,6 @@
 This repository contains code to implement neuron-astrocyte associative memory networks, as described in [Kozachkov, Slotine & Krotov (2023)](https://arxiv.org/abs/2311.08135). 
 
-Check out the [Example Notebook](notebooks/example_notebook.ipynb) for more details.
+Check out the [tutorial notebook](notebooks/Basic Neuron-Astrocyte Associative Memory Network Tutorial.ipynb) for more details.
 
 
 If you wish to cite this paper in your work, please use the following BibTeX entry:
