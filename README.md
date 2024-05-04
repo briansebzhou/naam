@@ -1,3 +1,5 @@
+![Astrocyte with synapses](astro-with-synapses.png)
+
 This repository contains code to implement neuron-astrocyte associative memory networks, as described in [Kozachkov, Slotine & Krotov (2023)](https://arxiv.org/abs/2311.08135). 
 
 To begin, please see the [tutorial notebook](notebooks/Basic-Neuron-Astrocyte-Associative-Memory-Network-Tutorial.ipynb) which illustrates the basic functionality of neuron-astrocyte associative memory networks.
